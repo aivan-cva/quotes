@@ -1,8 +1,8 @@
 import { getQuoteData, url } from "../api";
 
 const initialState = {
-  text: "Hello",
-  author: "John",
+  text: "",
+  author: "",
   pending: false,
 };
 
